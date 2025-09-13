@@ -1,15 +1,14 @@
-![header](https://capsule-render.vercel.app/api? 헤더에 capsule-render api사용을 명시적으로 적어준 후
-
-type=waving& //파도 모양
-
-color=auto& //색변 경자동
-
-height=300& //크기
-
-section=header& //위치
-
-text=Welcome& //메인이 될 글
-
-fontSize=90&animation=fadeIn&fontAlignY=38& //글씨 크기와 애니메이션 설정
-
-desc=Seonghoo1217's%20GitHub%20Profile&descAlignY=51&descAlign=62 //desc에 추가 설명 
+<!-- 헤더 배너 (capsule-render api 사용) -->
+![header](https://capsule-render.vercel.app/api?
+type=waving&          // 파도 모양
+color=auto&           // 색 자동
+height=300&           // 크기
+section=header&       // 위치
+text=Welcome&         // 메인 텍스트
+fontSize=90&          // 글씨 크기
+animation=fadeIn&     // 글씨 애니메이션
+fontAlignY=38&        // 글씨 Y축 위치
+desc=Seonghoo1217's%20GitHub%20Profile& // 부가 설명
+descAlignY=51&        // 설명 Y축 위치
+descAlign=62          // 설명 정렬
+)
